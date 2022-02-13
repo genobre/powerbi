@@ -1,4 +1,4 @@
-# Mini Project with Power Bi and google Analytics
+# Mini Project with Power Bi and Google Analytics
 
 The purpose of this mini-project is to simulate what it would be like to work with Power BI using data obtained directly from Google Analytics.
 
