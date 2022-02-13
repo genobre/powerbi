@@ -24,3 +24,12 @@ If your default language is not English (United States), then you will need to g
 The first two columns are ID keys, so it's good practice to keep the data as `text`. If Power BI recognized these columns as number, then change the type to `text`. The data doesn't seem to have any other kind of inconsistency, so we can click `Close and Apply`.
 
 For the created dashboard, I chose the `Executive` theme, but feel free to choose the theme that suits you best.
+
+## Answering the questions
+### Question 1
+
+Para responder a essa pergunta, iremos criar um gráfico de barras com os main sales channels. Para isso, basta selecionar o gráfico de barras e clicar nos valores `fullvisitorid` (count) e `channelgrouping`.
+
+![Image 1](/assets/images/image1.png)
+
+Thus, we can see that customers access the portal mostly via organic search, while paid search shows one of the lowest returns. This could indicate that there is unnecessary ad spend or that the current ad spend is misdirected.
