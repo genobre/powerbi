@@ -38,9 +38,14 @@ Thus, we can see that customers access the portal mostly via organic search, whi
 
 To answer this question, we will use a line graph. Just select the parameters `day (date - hierarchy)` and `timeonsite_st`. Notice that at each step I change the look of the graphs so that they are easier to read.
 
-![Image 2](./assets/images/image1.PNG)
+![Image 2](./assets/images/image2.PNG)
 
 From this graph, we can see that accesses at the beginning of the month tend to be higher than accesses at the end of the month, reaching their maximum around the 10th. This analysis can help to direct the right moment for promotions and advertisements.
 
 ### Question 3
 
+For this question, we can use a donut chart. Just select `fullvisitorid`(count) and `source_today`.
+
+![Image 2](./assets/images/image3.PNG)
+
+The results show us that the biggest sources of access are Google and direct access. This shows us that any advertising carried out outside of Google has been ineffective in attracting new buyers.
