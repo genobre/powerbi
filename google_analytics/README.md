@@ -49,3 +49,11 @@ For this question, we can use a donut chart. Just select `fullvisitorid`(count) 
 ![Image 2](./assets/images/image3.PNG)
 
 The results show us that the biggest sources of access are Google and direct access. This shows us that any advertising carried out outside of Google has been ineffective in attracting new buyers.
+
+### Question 4
+
+Here I decided to use a treemap. To adjust the graph, I selected `fullvisitorid`(count) and `operatingsystem`.
+
+![Image 2](./assets/images/image4.PNG)
+
+The results are consistent with expectations: the majority of the population accesses the site using Windows, followed by Macintosh and Android operating systems. If the results showed us a very large percentage of buyers using Linux, for example, this could indicate that we are targeting a more specific niche of the population.
