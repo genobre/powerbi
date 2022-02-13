@@ -16,3 +16,11 @@ We are dealing with data from an e-commerce. For this project, we will answer th
 4. What is the most used operating system to access our portal?
 5. What is the most used device to access our portal?
 6. What is the total billing per day?
+
+## Uploading the data and setting the enviroment
+
+If your default language is not English (United States), then you will need to go to `Files` &rarr; `Options & Settings` &rarr; `Options` &rarr; `Regional Settings` and change the language to English (United States). Then, you can click on `Get Data` and import the dataset (CVS file). Before loading the data into your project, click on `Transform Data` to make sure everything is correct.
+
+The first two columns are ID keys, so it's good practice to keep the data as `text`. If Power BI recognized these columns as number, then change the type to `text`. The data doesn't seem to have any other kind of inconsistency, so we can click `Close and Apply`.
+
+For the created dashboard, I chose the `Executive` theme, but feel free to choose the theme that suits you best.
