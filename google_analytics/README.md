@@ -30,6 +30,6 @@ For the created dashboard, I chose the `Executive` theme, but feel free to choos
 
 Para responder a essa pergunta, iremos criar um gráfico de barras com os main sales channels. Para isso, basta selecionar o gráfico de barras e clicar nos valores `fullvisitorid` (count) e `channelgrouping`.
 
-![](\assets\images\image1.PNG)
+![Image 1](\assets\images\image1.PNG)
 
 Thus, we can see that customers access the portal mostly via organic search, while paid search shows one of the lowest returns. This could indicate that there is unnecessary ad spend or that the current ad spend is misdirected.
