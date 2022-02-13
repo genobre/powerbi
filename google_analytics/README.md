@@ -4,7 +4,7 @@ The purpose of this mini-project is to simulate what it would be like to work wi
 
 ## Getting the data
 
-As many do not have an online page from which to extract the data, we will use data from the [Google Merchandise](https://www.googlemerchandisestore.com/) Store available on [Google Cloud](https://cloud.google.com/). To facilitate analysis, the [dataset](dataset.csv) used for this project can be downloaded directly from the repository.
+As many do not have an online page from which to extract the data, we will use data from the [Google Merchandise](https://www.googlemerchandisestore.com/) Store available on [Google Cloud](https://cloud.google.com/). To facilitate analysis, the [dataset](./assets/dataset.csv) used for this project can be downloaded directly from the repository.
 
 ## Problem Parameters
 
@@ -33,3 +33,11 @@ Para responder a essa pergunta, iremos criar um gráfico de barras com os main s
 ![Image 1](./assets/images/image1.PNG)
 
 Thus, we can see that customers access the portal mostly via organic search, while paid search shows one of the lowest returns. This could indicate that there is unnecessary ad spend or that the current ad spend is misdirected.
+
+### Question 2
+
+To answer this question, we will use a line graph. Just select the parameters `day (date - hierarchy)` and `timeonsite_st`. Notice that at each step I change the look of the graphs so that they are easier to read.
+
+![Image 2](./assets/images/image1.PNG)
+
+From this graph, we can see that accesses at the beginning of the month tend to be higher than accesses at the end of the month, reaching their maximum around the 10th. This analysis can help to direct the right moment for promotions and advertisements.
