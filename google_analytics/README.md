@@ -28,7 +28,7 @@ For the created dashboard, I chose the `Executive` theme, but feel free to choos
 ## Answering the questions
 ### Question 1
 
-Para responder a essa pergunta, iremos criar um gráfico de barras com os main sales channels. Para isso, basta selecionar o gráfico de barras e clicar nos valores `fullvisitorid` (count) e `channelgrouping`.
+To answer this question, we will create a bar chart with the main sales channels. To do this, simply select the bar chart and click on the `fullvisitorid` (count) and `channelgrouping` values.
 
 ![Image 1](./assets/images/image1.PNG)
 
@@ -41,3 +41,6 @@ To answer this question, we will use a line graph. Just select the parameters `d
 ![Image 2](./assets/images/image1.PNG)
 
 From this graph, we can see that accesses at the beginning of the month tend to be higher than accesses at the end of the month, reaching their maximum around the 10th. This analysis can help to direct the right moment for promotions and advertisements.
+
+### Question 3
+
