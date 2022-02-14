@@ -65,3 +65,12 @@ For this answer I used the Waterfall chart, selecting `fullvisitorid`(count) and
 ![Image 2](./assets/images/image5.PNG)
 
 The results show us a higher percentage of users accessing the site from their desktop. Considering the high number of online purchases that are carried out over the phone today, this could indicate that the site is not being accessed through the more traditional mobile applications (which is corroborated by our access sources graph) or that the user on mobile is not so pleasant. The company could increase its ads on apps like Instagram to reach more mobile audiences or review the site's usability on mobile.
+
+### Question 6
+
+For our last question we are going to use an area chart, selecting the values ​​`day (date - hierarchy)` and `transactionreveneu_st`. With that, we have graphs answering all the questions that were asked of us.
+
+![Image 2](./assets/images/image6.PNG)
+
+This last analysis allows us to observe that daily revenue follows the trend of the average time spent on the site, being higher at the beginning of the month. This may be related to the day when the majority of the population receives their salary. The two graphs together (revenue and average time) allow us to organize strategies to maximize revenue when we have higher audience engagement and to attract buyers when we have lower engagement.
+
