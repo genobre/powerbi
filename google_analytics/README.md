@@ -91,3 +91,5 @@ To give the report an extra touch, I'll add a country filter at the top of the p
 We can see that Google Analytics allows us access to a lot of data from our website. When well analyzed, this data can generate powerful insights that will direct our efforts in terms of product, marketing, sales strategies, among others.
 
 Check out my full Dashboard below:
+
+![Image 2](./assets/images/image8.PNG)
