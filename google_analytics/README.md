@@ -36,7 +36,7 @@ Thus, we can see that customers access the portal mostly via organic search, whi
 
 ### Question 2
 
-To answer this question, we will use a line graph. Just select the parameters `day (date - hierarchy)` and `timeonsite_st`. Notice that at each step I change the look of the graphs so that they are easier to read.
+To answer this question, we will use a line graph. Just select the parameters `day (date - hierarchy)` and `timeonsite_st` (average). Notice that at each step I change the look of the graphs so that they are easier to read.
 
 ![Image 2](./assets/images/image2.PNG)
 
@@ -74,3 +74,20 @@ For our last question we are going to use an area chart, selecting the values �
 
 This last analysis allows us to observe that daily revenue follows the trend of the average time spent on the site, being higher at the beginning of the month. This may be related to the day when the majority of the population receives their salary. The two graphs together (revenue and average time) allow us to organize strategies to maximize revenue when we have higher audience engagement and to attract buyers when we have lower engagement.
 
+### Bonus
+
+We will, as a bonus task, analyze the KPI of the number of pageviews per day. For this, we will initially create a goal as a value within our data. Click on `Data` &rarr; `New Measure` and rename your measurement to "meta". Add a value. I decided to select the value of 10 pageviews per day as an average. In real situations these values ​​will already exist, but for exercise purposes we can put a value that we deem reasonable.
+
+So, let's create a KPI chart, selecting the values ​​`day (date - hierarchy)` and `pageviews_st` (average). Under `target goals` select the measure we created.
+
+![Image 2](./assets/images/image7.PNG)
+
+Finalmente, podemos ver que estamos abaixo da meta estipulada. 
+
+To give the report an extra touch, I'll add a country filter at the top of the page. Thus, in addition to seeing the data globally, it is also possible to analyze each country individually and create customized strategies for each one depending on the results.
+
+## Conclusões
+
+We can see that Google Analytics allows us access to a lot of data from our website. When well analyzed, this data can generate powerful insights that will direct our efforts in terms of product, marketing, sales strategies, among others.
+
+Check out my full Dashboard below:
