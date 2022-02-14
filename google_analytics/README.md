@@ -57,3 +57,11 @@ Here I decided to use a treemap. To adjust the graph, I selected `fullvisitorid`
 ![Image 2](./assets/images/image4.PNG)
 
 The results are consistent with expectations: the majority of the population accesses the site using Windows, followed by Macintosh and Android operating systems. If the results showed us a very large percentage of buyers using Linux, for example, this could indicate that we are targeting a more specific niche of the population.
+
+### Question 5
+
+For this answer I used the Waterfall chart, selecting `fullvisitorid`(count) and `devicecategory`.
+
+![Image 2](./assets/images/image5.PNG)
+
+The results show us a higher percentage of users accessing the site from their desktop. Considering the high number of online purchases that are carried out over the phone today, this could indicate that the site is not being accessed through the more traditional mobile applications (which is corroborated by our access sources graph) or that the user on mobile is not so pleasant. The company could increase its ads on apps like Instagram to reach more mobile audiences or review the site's usability on mobile.
